@@ -2,6 +2,10 @@
 
 ### Resources
 
+###A new Change
+*Feature1
+*Feature2
+
 * Homepage: <https://opencv.org>
   * Courses: <https://opencv.org/courses>
 * Docs: <https://docs.opencv.org/4.x/>
